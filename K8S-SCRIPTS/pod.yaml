@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: my-sl-pod
   labels:
-    app: lblnginx
+    app: web
 spec:
   containers:
   - name: nginx-container
